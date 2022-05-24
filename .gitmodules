@@ -1,0 +1,21 @@
+[submodule "fft"]
+	path = fft
+	url = https://github.com/xiahouzuoxin/fft
+[submodule "FFT_implement"]
+	path = FFT_implement
+	url = https://github.com/carlushuang/FFT_implement
+[submodule "fftwf_xcorr"]
+	path = fftwf_xcorr
+	url = https://github.com/johschmitz/fftwf_xcorr
+[submodule "kiss_xcorr"]
+	path = kiss_xcorr
+	url = https://github.com/lucidfrontier45/kiss_xcorr
+[submodule "fftcw"]
+	path = fftcw
+	url = https://github.com/Marcello-Sega/fftcw
+[submodule "sign_xcorr"]
+	path = sign_xcorr
+	url = https://github.com/jchavanton/sign_xcorr
+[submodule "fftautocorr"]
+	path = fftautocorr
+	url = https://github.com/CareF/fftautocorr
